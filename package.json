@@ -1,0 +1,15 @@
+{
+  "name": "production-backend",
+  "version": "1.0.0",
+  "description": "a bcakend by ankit",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "ankit",
+  "license": "ISC"
+}
